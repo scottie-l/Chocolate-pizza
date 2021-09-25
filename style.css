@@ -1,0 +1,70 @@
+/* id = #
+class= . */
+body {
+    margin: auto;
+    width:900px;
+}
+
+.header {
+    overflow: hidden;
+    position: relative;
+}
+
+#logo {
+    float: left;
+}
+
+#logoword {
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#bestfood {
+    font-size: 9px;
+    margin-top: 0px;
+}
+
+#social {
+    margin-top: -60px;
+}
+
+#social ul {
+    list-style-type: none;
+    float: right;
+    position: relative;
+    top: -6px;
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+}
+
+#colm1 {
+    background-image: url("img/list-bg.png");
+    display: inline-block;
+}
+
+#colm2 {
+    background-image: url("img/list-bg.png");
+    display: inline-block;
+}
+
+div li {
+    text-decoration: none;
+    list-style-type: none; 
+}
+
+#h1mainn {
+    font-weight: bold;
+}
+
+#sharebutton {
+    width: 150px;
+    height: 50px;
+    background-color:rgba(255, 60, 0, 0.849);
+    float: right;
+    padding: 5px;
+    color:white;
+
+}
